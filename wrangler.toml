@@ -1,0 +1,10 @@
+name = "soc2-vectorize-demo"
+main = "src/index.ts"
+compatibility_date = "2026-10-06"
+
+[ai]
+binding = "AI"
+
+[[vectorize]]
+binding = "VECTORIZE"
+index_name = "soc2-controls"
